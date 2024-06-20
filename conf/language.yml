@@ -1,0 +1,49 @@
+vi:
+  greeting:
+    - Xin chào!
+    - Hi!
+    - Hello
+    - Hế lồ
+  introduction:
+    - Treetify sẽ giúp bạn tìm ra tên của cây bằng ảnh chụp lá hay hoa của cây đó
+    - Hãy gửi cho Treetify ảnh của cây bạn muốn biết, Treetify sẽ trả lời
+    - Gửi ảnh đi, Treetify đều biết
+  flower_or_leaf:
+    - Bạn có ảnh hoa, lá hay quả?
+    - Bạn gửi ảnh loại nào?
+    - Bạn đang có ảnh hoa, lá hay quả?
+    - Bạn muốn dùng ảnh nào để hỏi?
+  sendme:
+    - Gửi ảnh đi
+    - Hãy gửi ảnh cho mình
+    - Hãy chụp và gửi ảnh nào
+  sci_name:
+    - Loài cây này có tên khoa học là
+    - Tên khoa học là 
+    - Không biết tên tiếng Việt là gì, nhưng tên khoa học là
+  common_name:
+    - Còn có các tên thường gọi khác là
+    - Còn được gọi là
+    - Có nơi gọi là
+  detail:
+    - Chi tiết
+    - Muốn biết thêm thì vô đây
+  name:
+    - Đây là 
+    - Câu trả lời là 
+    - Chính là 
+    - Xin trả lời là 
+    - Treetify nhận diện là 
+    - Nhận diện đây là 
+  no_image:
+    - Chẳng có cái ảnh nào cả, gửi lại đi 
+    - Đùa à, không thấy ảnh
+    - Gửi ảnh gửi ảnh gửi ảnh
+  error:
+    - Lỗi rồi, làm lại nhé
+    - Úm rồi, làm lại làm lại
+    - Sai gì rồi, làm lại nhé
+  goodbye:
+    - Hẹn gặp lại
+    - Rất vui vì đã được giúp bạn
+    - Lần sau lại hỏi nhé

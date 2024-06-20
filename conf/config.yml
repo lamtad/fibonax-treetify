@@ -1,0 +1,10 @@
+port: 1203
+verify_token: "AeJe6EFK6xZAV3AVZBZAmoMRF14KeM0sv7IDQcktYiVFQZM"
+page_access_token: "EAAHHQaOMwtcBACBmjheKwcY11nlk5DMM83AoXIqh7DtR8HaZC73TI5DHNZAfPJWqasYiM2jW3Iy2tSZC9CNuDJpAcy9lAVqeZBVfZA60t4MM3n1q54uJZBdEa4n509YaQyGDUqVZBLJbAmJlI5fbQ0qkEB5iuIUFX81KZBLLlfXADwZDZD"
+app_secret: "5c73e0b75e8569d0b2427e59615b1925"
+plantnet_api_key: "2a106DLL5233bJz6ylJRmmYPe"
+images_dir: "images"
+language_file: "conf/language.yml"
+lobe_endpoint: "http://localhost:38100/predict/3efee2c5-6526-4360-be52-4861035c013a"
+pushbullet_apikey: "o.Hv2FUSfTXTa6xNGONoCYbryofE9gw90y"
+pushbullet_device: "Vsmart Live"
